@@ -1,0 +1,11 @@
+1. find your token here https://www.youtube.com/watch?v=YEgFvgg7ZPI
+
+2. once you found YOUR token open the file called token,config or settings 
+
+3.once you've opened the file press where its highlighted "TOKEN HERE" inbetween the speech marks 
+place your token (DO NOT REMOVE THE SPEECH MARKS INSERT BETWEEN THEM)
+
+4.make sure inside the sppech marks thers's no spaces such as "ODA5NDc2ODY2NjQ0NjM5Nzgy.YNhhoQ.EgD5d7z7T4rqPye4zomPtrDwlm4 "
+make sure its "ODA5NDc2ODY2NjQ0NjM5Nzgy.YNhhoQ.EgD5d7z7T4rqPye4zomPtrDwlm4"
+
+5. run main and if you need anymore help contact V9#0007 on discord

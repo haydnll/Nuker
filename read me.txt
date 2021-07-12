@@ -1,0 +1,15 @@
+Prefix h!
+
+Mass Create Channels - h!mch [text]
+Ping Stresser - h!ps [text]
+Mass Create Roles - h!mrl [text]
+Delete All Channels - h!dch
+Delete All Roles - h!drl
+Delete All Emojis - h!dem
+Ban All Members - h!ball
+Kick All Members -
+Destroy - h!die
+
+Made By
+OxiJenuuu#5870
+V9#0007
